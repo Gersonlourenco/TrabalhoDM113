@@ -1,0 +1,15 @@
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\obj\Debug\ServicoEstoque.csprojAssemblyReference.cache
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\ServicoEstoque.dll.config
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\ServicoEstoque.dll
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\ServicoEstoque.pdb
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EntityFramework.dll
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EntityFramework.SqlServer.dll
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EstoqueEntityModel.dll
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EstoqueEntityModel.pdb
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EstoqueEntityModel.dll.config
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EntityFramework.xml
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\bin\EntityFramework.SqlServer.xml
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CopyComplete
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\obj\Debug\ServicoEstoque.dll
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ServicoEstoque\obj\Debug\ServicoEstoque.pdb

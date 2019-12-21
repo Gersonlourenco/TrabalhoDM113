@@ -10,7 +10,7 @@ using System.Text;
 namespace Products
 {
     // Service contract describing the operations provided by the WCF service
-    [ServiceContract(Namespace = "http://projetoavaliativo.dm113/01", Name = "IServicoEstque")]
+    [ServiceContract]//(Namespace = "http://projetoavaliativo.dm113/01", Name = "IServicoEstque")]
     public interface IServicoEstque
     {
         // Lista produtos
@@ -42,7 +42,7 @@ namespace Products
         Produto VerProduto(string numeroProduto);
     }
 
-    // Service contract describing the operations provided by the WCF service
+    /* Service contract describing the operations provided by the WCF service
     [ServiceContract(Namespace = "http://projetoavaliativo.dm113/02", Name = "IServicoEstque")]
     public interface IServicoEstqueV2
     {        
@@ -57,7 +57,7 @@ namespace Products
         //consulta estoque
         [OperationContract]
         decimal ConsultarEstoque(string numeroProduto);
-    }
+    }*/
 
 
     // Data contract describing the details of a product passed to client applications
