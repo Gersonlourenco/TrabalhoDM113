@@ -1,0 +1,7 @@
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\bin\Debug\ClienteEstoque2.exe.config
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\bin\Debug\ClienteEstoque2.exe
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\bin\Debug\ClienteEstoque2.pdb
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\obj\Debug\ClienteEstoque2.csprojAssemblyReference.cache
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\obj\Debug\ClienteEstoque2.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\obj\Debug\ClienteEstoque2.exe
+C:\Users\Gerson Carvalho\source\repos\EstoqueService\ClienteEstoque2\obj\Debug\ClienteEstoque2.pdb
